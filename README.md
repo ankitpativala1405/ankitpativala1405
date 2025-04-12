@@ -3,9 +3,6 @@
 
 ![mernstack-img](https://github.com/user-attachments/assets/020bd4e7-1939-4935-af5e-c51666cd33a2)
 
-<h1 align="center">Hi 👋, I'm ANKIT PATIVALA</h1>
-<h3 align="center">A passionate full stack developer ,MERN developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpativala1405&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpativala1405" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpativala1405" alt="ankitpativala1405" /></a> </p>
@@ -25,15 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpativala1405&show_icons=true&locale=en" alt="ankitpativala1405" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpativala1405&" alt="ankitpativala1405" /></p>
-
-
-
-# Top Contributed Repo
-
-## Ankit Pativala's GitHub Contributor Stats
-- **Repository**
-  - :star: [Javascript](https://github.com/VishalChavda2393/Javascript) 
-  - :book: BT-4PM
-  - :computer: Techno-web
-  - :bust_in_silhouette: ankitpativala1405
-
