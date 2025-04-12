@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/user-attachments/assets/d49d4e1a-0241-46e3-a9b1-06fd3e20c28d)
+
+![mernstack-img](https://github.com/user-attachments/assets/020bd4e7-1939-4935-af5e-c51666cd33a2)
