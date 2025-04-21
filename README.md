@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankit-pativala-b2b02a194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-pativala-b2b02a194" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-pativala-b2b02a194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-pativala-b2b02a194" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/akki-pativala/pfbid0yricvwqbrq7hwjn8pjj25xv3bmgwt79y3s9asxdrauwlqaea44e94f8s2q6fxvh5l/?rdid=jnquzecxsidfbegj&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f16sji2zepd%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/akki-pativala/pfbid0yricvwqbrq7hwjn8pjj25xv3bmgwt79y3s9asxdrauwlqaea44e94f8s2q6fxvh5l/?rdid=jnquzecxsidfbegj&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f16sji2zepd%2f" height="30" width="40" /></a>
 <a href="https://instagram.com/ankit_pativala_1405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankit_pativala_1405" height="30" width="40" /></a>
 </p>
