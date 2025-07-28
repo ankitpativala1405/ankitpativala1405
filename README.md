@@ -62,3 +62,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitpativala1405&show_icons=true&locale=en&layout=compact" alt="ankitpativala1405" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpativala1405&show_icons=true&locale=en" alt="ankitpativala1405" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpativala1405&" alt="ankitpativala1405" /></p>
