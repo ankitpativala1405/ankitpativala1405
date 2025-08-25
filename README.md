@@ -30,7 +30,7 @@
   </a>
 
   <!-- CodePen -->
-  <a href="https://codepen.io/your-codepen-username" target="_blank">
+  <a href="https://codepen.io/ankitpativala1405" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
   </a>
 
