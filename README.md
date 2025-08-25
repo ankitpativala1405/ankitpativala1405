@@ -35,7 +35,7 @@
   </a>
 
   <!-- Stack Overflow -->
-  <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="_blank">
+  <a href="https://stackoverflow.com/users/31350298/ankit-pativala" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
   </a>
 </p>
