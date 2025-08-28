@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpativala1405&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpativala1405" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpativala1405" alt="ankitpativala1405" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitpativala1405" alt="ankitpativala1405" /></a> </p>
 
 - 📫 How to reach me **ankitj1405@gmail.com**
 
