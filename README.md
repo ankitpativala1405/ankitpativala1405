@@ -17,7 +17,7 @@
   <!-- LinkedIn -->
 <a href="https://linkedin.com/in/ankit-pativala-b2b02a194" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-pativala" height="30" width="40" />
-  </a>
+</a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/people/akki-pativala/pfbid0yricvwqbrq7hwjn8pjj25xv3bmgwt79y3s9asxdrauwlqaea44e94f8s2q6fxvh5l" target="_blank">
