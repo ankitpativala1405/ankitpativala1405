@@ -40,7 +40,7 @@
   </a>
 </p>
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/ScandiPWA-1DBF73?style=for-the-badge&logo=react&logoColor=white" alt="ScandiPWA" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+</p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitpativala1405&show_icons=true&locale=en&layout=compact" alt="ankitpativala1405" /></p>
